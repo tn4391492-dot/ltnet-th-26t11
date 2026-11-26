@@ -1,0 +1,10 @@
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\obj\Debug\BaiTap6_6_6_7.csproj.AssemblyReference.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\obj\Debug\BaiTap6_6_6_7.Properties.Resources.resources
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\obj\Debug\BaiTap6_6_6_7.csproj.GenerateResource.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\obj\Debug\BaiTap6_6_6_7.csproj.CoreCompileInputs.cache
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\bin\Debug\BaiTap6_6_6_7.exe.config
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\bin\Debug\BaiTap6_6_6_7.exe
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\bin\Debug\BaiTap6_6_6_7.pdb
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\obj\Debug\GUI.frmBankAtmMain.resources
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\obj\Debug\BaiTap6_6_6_7.exe
+C:\TaiLieuEPU\NamBa\KyMot\.NET DSK\BTTH\BTTH26-11\BaiTap6_6_6_7\obj\Debug\BaiTap6_6_6_7.pdb
